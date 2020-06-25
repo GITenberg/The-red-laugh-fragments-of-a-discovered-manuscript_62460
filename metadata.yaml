@@ -1,10 +1,13 @@
 _repo: The-red-laugh-fragments-of-a-discovered-manuscript_62460
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Linden, Alexandra
     gutenberg_agent_id: '51952'
     url: http://www.gutenberg.org/2009/agents/51952
+covers:
+- cover_type: archival
+  image_path: 62460-h/images/cover.jpg
 creator:
   author:
     agent_name: Andreyev, Leonid
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1871
     wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62460#The-red-laugh-fragments-of-a-discovered-manuscript
 gutenberg_issued: '2020-06-23'
 gutenberg_type: Text
 identifiers:
