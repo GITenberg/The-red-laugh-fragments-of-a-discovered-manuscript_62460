@@ -1,0 +1,32 @@
+_repo: The-red-laugh-fragments-of-a-discovered-manuscript_62460
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Linden, Alexandra
+    gutenberg_agent_id: '51952'
+    url: http://www.gutenberg.org/2009/agents/51952
+creator:
+  author:
+    agent_name: Andreyev, Leonid
+    aliases:
+    - Andreev, Leonid Nikolaevich
+    - Andreyev, Leonid Nikolayevich
+    - Андреев, Леонид Николаевич
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
+description: ''
+gutenberg_issued: '2020-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The red laugh: fragments of a discovered manuscript'
+url: http://www.gutenberg.org/ebooks/62460
